@@ -1,0 +1,24 @@
+<resources>
+    <string name="start_game">Démarrer le jeu</string>
+    <string name="about">À propos</string>
+    <string name="scores">Scores</string>
+    <string name="score_name">Nom : %s</string>
+    <string name="score_value">Score : %s</string>
+    <string name="score_date">Date : %s</string>
+    <string name="score_time">Temps : %ss</string>
+    <string name="answer_label">Entrez votre réponse</string>
+    <string name="answer_correct">Correct !</string>
+    <string name="answer_wrong">Mauvaise réponse !</string>
+    <string name="answer_submit">Soumettre</string>
+    <string name="back_menu">Retour au menu</string>
+    <string name="final_score">Votre score : %s</string>
+    <string name="final_time">Temps total : %s secondes</string>
+    <string name="highest_score">Meilleur score : %s par %s le %s (%ss)</string>
+    <string name="name_input">Entrez votre nom</string>
+    <string name="name_required">Veuillez entrer un nom pour enregistrer votre score</string>
+    <string name="restart">Recommencer</string>
+    <string name="main_menu">Menu principal</string>
+    <string name="about_header">À propos de CalQuiz</string>
+    <string name="about_description">CalQuiz est un jeu de mathématiques amusant pour tester vos compétences en arithmétique.\nRépondez aux équations pour gagner des points.\nPlus vous répondez vite, plus votre score est élevé !\n\nFonctionnalités :\n    - Activité de quiz\n    - Système de notation\n    - Classement\n    - Données persistantes\n    - Multilingue : anglais et français\n    \nVersion : 1.0.0\nDéveloppé par : Cédric MAS G2</string>
+    <string name="back">Retour</string>
+</resources>

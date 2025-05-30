@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name" translatable="false">CalQuiz</string>
+    <string name="start_game">Start Game</string>
+    <string name="about">About</string>
+    <string name="scores">Scores</string>
+    <string name="score_name">Name: %s</string>
+    <string name="score_value">Score: %s</string>
+    <string name="score_date">Date: %s</string>
+    <string name="score_time">Time: %ss</string>
+    <string name="answer_label">Enter your answer</string>
+    <string name="answer_correct">Correct!</string>
+    <string name="answer_wrong">Wrong answer!</string>
+    <string name="answer_submit">Submit</string>
+    <string name="back_menu">Back to Menu</string>
+    <string name="final_score">Your score: %s</string>
+    <string name="final_time">Total time: %s seconds</string>
+    <string name="highest_score">Top Score: %s by %s on %s (%ss)</string>
+    <string name="name_input">Enter your name</string>
+    <string name="name_required">Please enter a name to save your score</string>
+    <string name="restart">Restart</string>
+    <string name="main_menu">Main Menu</string>
+    <string name="about_header">About CalQuiz</string>
+    <string name="about_description">CalQuiz is a fun math game to test your aithmetic skills.\nAnswer equations to earn points.\nThe faster you answer, the higher you score!\n\nFeatures:\n    - Quiz activity\n    - Scoring system\n    - Leaderboard\n    - Persistent data\n    - Multilingual: English and French\n\nVersion: 1.0.0\nDeveloped by: Cédric MAS G2</string>
+    <string name="back">Back</string>
+</resources>
